@@ -32,7 +32,7 @@ const AppConfig = {
      * If your repo has any other name (a project page), it would be:
      * https://<username>.github.io/<repo-name>
      */
-    GITHUB_PAGES_URL: "https://Asherflemming.github.io/jaglon.github.io",
+    GITHUB_PAGES_URL: "https://asherflemming.github.io",
 
     /**
      * The URL used when running the app locally during development.
